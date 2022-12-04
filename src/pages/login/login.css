@@ -1,0 +1,57 @@
+@import "../../index.css";
+
+.main-container {
+  display: flex;
+  align-items: center;
+}
+
+.signin-container {
+  width: 50%;
+  margin: 20px;
+  max-width: 500px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 5px 0px;
+  border: 1px solid var(--light-gray);
+  color: var(--light-gray);
+}
+
+.main-img {
+  width: 50%;
+  border-radius: 20px;
+  margin: 20px;
+  max-width: 500px;
+}
+
+.keep-checkbox {
+
+  margin: 5px 0;
+}
+
+.submit-button {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: var(--primary);
+  color: var(--white);
+  font-weight: 600;
+  margin: 5px 0;
+}
+
+.signup{
+    margin: 5px 0;
+}
+
+.checkbox{
+    margin-right: 5px;
+}

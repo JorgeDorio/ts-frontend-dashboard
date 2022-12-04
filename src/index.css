@@ -1,0 +1,14 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  border: none;
+}
+
+:root {
+  --primary: #1e90ff;
+  --secondary: #ffffff;
+  --white: #ffffff;
+  --light-gray: #D3D3D3
+}
